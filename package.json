@@ -1,0 +1,25 @@
+{
+  "name": "react-native-nestedScroll",
+  "title": "React Native Nested Scroll",
+  "version": "1.0.0",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantEdgeTeam/react-native-nestedScroll.git",
+    "baseUrl": "https://github.com/QuantEdgeTeam/react-native-nestedScroll"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Hung Nguyen",
+    "email": "quang-hung.nguyen@quant-edge.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md"
+}
